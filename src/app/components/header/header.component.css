@@ -1,0 +1,20 @@
+.navbarHead{
+    margin-left:150%; 
+    font-weight: bold;
+    font-size: 25px;
+}
+.navbarContainer{
+    margin-right:20%;
+    color:black !important;
+}
+.navbarList{
+    margin-right:10%;
+    font-size: 17px;
+    font-weight: 500;
+}
+.navbarList>a{
+    color:white;
+}
+.navbarList>a:hover{
+    color:#caccce;
+}
